@@ -1,2 +1,2 @@
-# Tateer_1-18-.py
+# bot_fixed.py
 tateer2
